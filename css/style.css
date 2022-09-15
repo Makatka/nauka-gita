@@ -7,6 +7,7 @@
 
 body {
     font-family: 'EB Garamond', serif;
+    background-color: #232827;
 }
 
 main {
@@ -21,12 +22,13 @@ article {
     line-height: 1.5;
     font-size: 18px;
     letter-spacing: .8px;
+    color: white;
 }
 
 h1 {
     font-size: 37px;
     margin-bottom: 15px;
-    color: midnightblue;
+    color: #ddd;
 }
 
 h2 {
